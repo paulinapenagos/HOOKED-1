@@ -1,0 +1,127 @@
+body{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+
+header{
+	background-color: #61C3D6;
+	background-size: cover;
+	text-align: center;
+	padding: 300px 0;
+}
+
+#misionvisionvalores{
+	text-align: center;
+	margin: 70px 10px
+
+}
+
+
+#misionvisionvalores h2{
+	color: #FCC901;
+	font-size: 70px;
+	font-weight: 400px;
+	font-style: bold;
+	text-align: center;
+}
+
+#misionvisionvalores p{
+	color: #5F5655;
+	text-align: center; 
+	font-size: 20px;
+}
+
+#misionvisionvalores li{
+	text-align: center;
+	color: #5F5655;
+	list-style: none;
+	margin-right: 40px;
+	font-size: 20px;
+}
+
+#quienesomos{ 
+	padding: 10px 600px 80px 500px;
+}
+
+#quienesomos h2{
+	color: #FCC901;
+	font-size: 60px;
+	font-weight: 400px;
+	font-style: bold;
+	text-align: center;
+	line-height: 1px;
+	padding: 20px
+}
+
+#quienesomos p{
+	text-align: justify;
+	color: #5F5655;
+	font-size: 20px;
+	padding-top:20px;
+}
+
+#mision {
+    padding:5px 60px;
+}
+
+#vision{
+	padding:5px 60px;	
+}
+
+#valores{
+	padding:5px 60px;
+}
+
+footer{
+	background-color: #61C3D6;
+	background-size: cover;
+	padding: 40px;
+}
+
+footer h3{
+	color: #fff;
+	font-size: 30px;
+	font-weight: 200px;
+}
+
+#nuevos{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: #FFFFFF;
+	background-color: #FCC901;
+	text-align: center;
+	padding: 5px 60px 60px 
+
+}
+
+#nuevos h2{
+	text-align: center; 
+	font-style: bold;
+	font-size: 70px;
+}
+
+footer p{
+	color:#fff;
+}
+
+footer ul {
+	text-align: left;
+}
+
+footer li{
+	color:#fff;
+	list-style: none;
+	text-align: left;
+}
+#izquierda{
+	text-align: left
+}
+#derecha {
+	text-align: right
+}
+
+.img-fluid2 {
+	weight: 50px;
+	height: 50px
+}
+
+
+
